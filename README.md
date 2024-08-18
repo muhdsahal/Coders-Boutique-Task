@@ -3,7 +3,7 @@
 
 ### Project Overview:
 
-A project for social networking application using django restframework
+A project for User Management application using django restframework
 
 ### What I Did:
  
